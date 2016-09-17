@@ -1,0 +1,11 @@
+#threeJS {
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    font-size: 0;
+}
+
+#connection {
+    color: aliceblue;
+    position: absolute;
+}
